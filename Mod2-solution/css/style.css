@@ -71,7 +71,7 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-tablet-1, .col-tablet-2, .col-tablet-3, .col-tablet-4, .col-tablet-5, .col-tablet-6, .col-tablet-7, .col-tablet-8, .col-tablet-9, .col-tablet-10, .col-tablet-11, .col-tablet-12 {
     float: left;
-    border: 1px solid green;
+    border: 1px transparent;
   }
   .col-tablet-1 {
     width: 8.33%;
@@ -115,7 +115,7 @@ p {
 @media (max-width: 767px) {
   .col-mobile-1, .col-mobile-2, .col-mobile-3, .col-mobile-4, .col-mobile-5, .col-mobile-6, .col-mobile-7, .col-mobile-8, .col-mobile-9, .col-mobile-10, .col-mobile-11, .col-mobile-12 {
     float: left;
-    border: 1px solid green;
+    border: 1px transparent;
   }
   .col-mobile-1 {
     width: 8.33%;
