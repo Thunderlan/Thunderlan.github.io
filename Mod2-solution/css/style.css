@@ -7,10 +7,6 @@ h1 {
   margin-bottom: 15px;
 }
 
-div {
-  border: transparent;
-}
-
 p {
   border: 1px transparent;
   background-color: skyblue;
@@ -31,7 +27,7 @@ p {
 @media (min-width: 992px) {
   .col-desktop-1, .col-desktop-2, .col-desktop-3, .col-desktop-4, .col-desktop-5, .col-desktop-6, .col-desktop-7, .col-desktop-8, .col-desktop-9, .col-desktop-10, .col-desktop-11, .col-desktop-12 {
     float: left;
-    border: 1px transparent;
+    border: transparent;
   }
   .col-desktop-1 {
     width: 8.33%;
