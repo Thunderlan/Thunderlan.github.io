@@ -14,6 +14,7 @@ p {
   height: 150px;
   margin-right: auto;
   margin-left: auto;
+  margin-block: 2em;
   font-family: Helvetica sans-serif; 
   color: lightyellow;
 }
