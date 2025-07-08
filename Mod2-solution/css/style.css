@@ -12,8 +12,8 @@ p {
   background-color: skyblue;
   width: 90%;
   height: 150px;
-  margin-right: -22;
-  margin-left: -22;
+  margin-right: -22px;
+  margin-left: -22px;
   font-family: Helvetica sans-serif; 
   color: lightyellow;
 }
