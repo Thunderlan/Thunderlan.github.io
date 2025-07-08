@@ -73,7 +73,6 @@ p {
   .col-tablet-1, .col-tablet-2, .col-tablet-3, .col-tablet-4, .col-tablet-5, .col-tablet-6, .col-tablet-7, .col-tablet-8, .col-tablet-9, .col-tablet-10, .col-tablet-11, .col-tablet-12 {
     float: left;
     border: transparent;
-    margin: 5px;
   }
   .col-tablet-1 {
     width: 8.33%;
