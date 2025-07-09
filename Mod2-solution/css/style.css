@@ -18,6 +18,15 @@ p {
   color: ghostwhite;
 }
 
+#p1 {
+  border: 1px solid black;
+  background-color: seagreen;
+  font-family: Helvetica sans-serif;
+  color: ghostwhite;
+  font-style: italic;
+  float: margin-right;
+  clear: right;
+}
 
 /* Simple Responsive Framework. */
 .row {
