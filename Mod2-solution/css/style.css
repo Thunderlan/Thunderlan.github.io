@@ -7,7 +7,7 @@ h1 {
   margin-bottom: 15px;
 }
 
-p {
+div {
   border: 1px solid black;
   background-color: darkseagreen;
   width: 90%;
@@ -25,7 +25,10 @@ p {
   color: ghostwhite;
   font-style: italic;
   float: margin-right;
-  clear: right;
+}
+
+section {
+    clear: right;
 }
 
 /* Simple Responsive Framework. */
