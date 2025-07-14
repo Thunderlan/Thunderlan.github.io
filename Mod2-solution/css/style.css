@@ -43,7 +43,7 @@ p {
     float: left;
     border: 1px transparent;
     position: relative;
-    width: 95%;
+    margin: 10px;
   }
   .col-desktop-1 {
     width: 8.33%;
