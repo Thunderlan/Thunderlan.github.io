@@ -22,6 +22,7 @@ p {
   position: absolute;
   top: 0;
   right: 10px;
+  clear: left;
 }
 
 #p2 {
@@ -29,7 +30,7 @@ p {
   width: 95%;
   color: black;
   margin-right: 10px;
-  margin-top: 15px;
+  float: left;
 }
 
 /* Simple Responsive Framework. */
