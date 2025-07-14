@@ -11,6 +11,8 @@ h1 {
 
 p {
   border: 1px solid black;
+}
+#p2 {
   background-color: palegreen;
   width: 95%;
   color: black;
@@ -29,9 +31,7 @@ p {
   right: 5%;
 }
 
-section {
-  clear: right;
-}
+
 
 /* Simple Responsive Framework. */
 .row {
