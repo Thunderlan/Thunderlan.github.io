@@ -29,7 +29,7 @@ p {
   width: 95%;
   color: black;
   margin-right: 10px;
-  clear: right;
+  margin-top: 15px;
 }
 
 /* Simple Responsive Framework. */
