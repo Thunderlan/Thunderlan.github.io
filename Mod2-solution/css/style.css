@@ -33,11 +33,6 @@ p {
   padding-top: 30px;
 }
 
-#precoItem {
-  color: black;
-  float: right;
-}
-
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
