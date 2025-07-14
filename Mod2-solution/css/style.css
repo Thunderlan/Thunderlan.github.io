@@ -30,7 +30,7 @@ p {
   width: 95%;
   color: black;
   margin-right: 10px;
-  float: left;
+  padding-top: 10px;
 }
 
 /* Simple Responsive Framework. */
