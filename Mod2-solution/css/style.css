@@ -20,7 +20,12 @@ h1 {
 }
 
 p {
-    clear: right;
+  border: 1px solid black;
+  background-color: seagreen;
+  font-family: Helvetica sans-serif;
+  width: 50px;
+  color: ghostwhite;
+  clear: right;
 }
 
 /* Simple Responsive Framework. */
