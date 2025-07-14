@@ -29,6 +29,7 @@ p {
   position: absolute;
   top: 0;
   right: 0;
+  clear: left;
 }
 
 
