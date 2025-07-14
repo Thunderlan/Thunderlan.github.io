@@ -15,7 +15,7 @@ p {
   width: 95%;
   color: black;
   margin-right: auto;
-
+  clear: right;
 }
 
 #p1 {
@@ -24,10 +24,9 @@ p {
   color: ghostwhite;
   font-style: italic;
   text-align: center;
-  position: absolute;
-  top: 0;
-  right: 5%;
-  clear: left;
+  position: float margin-right;
+  /*top: 0;
+  right: 5%;*/
 }
 
 
