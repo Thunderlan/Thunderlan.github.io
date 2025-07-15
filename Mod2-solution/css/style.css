@@ -19,9 +19,8 @@ p {
   padding: 5px;
 }
 
-#p1 {
-  width: 75px;
-  background-color: seagreen;
+#menu-title {
+  width: 100px;
   color: ghostwhite;
   font-style: italic;
   text-align: center;
@@ -31,12 +30,19 @@ p {
   clear: left;
 }
 
-#p2 {
-  background-color: palegreen;
+#menu-item {
   width: auto;
   color: black;
   margin-right: 10px;
   padding-top: 30px;
+}
+
+.bg-color-palegreen {
+  background-color: palegreen;
+}
+
+.bg-color-seaegreen {
+  background-color: seagreen;
 }
 
 /* Simple Responsive Framework. */
