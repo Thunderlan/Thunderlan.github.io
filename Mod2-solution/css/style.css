@@ -45,6 +45,14 @@ p {
   background-color: seagreen;
 }
 
+.bg-color-darkblue {
+  background-color: darkblue;
+}
+
+#bg-color-magenta {
+  background-color: magenta;
+}
+
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
