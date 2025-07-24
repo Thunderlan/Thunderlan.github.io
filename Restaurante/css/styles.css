@@ -416,6 +416,15 @@ h3.menu-item-title {
 /* Extra extra small device only */
 @media (max-width: 479px) {
 	/* Header */
+
+/* Header */
+	.navbar-brand {
+		padding-top: 10px;
+		height: 80px;
+	}
+
+	/* ------ */
+
 	.navbar-brand h1 { /* Restaurant name */
 		padding-top: 2px;
 		font-size: 5vw;
