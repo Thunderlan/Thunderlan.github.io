@@ -13,6 +13,10 @@ hr {
 	width: 80%;
 	color: gray;
 }
+
+body {
+	margin-top: 120px;
+}
 /* Cabeçalho */
 
 /* Fim do Cabeçalho */
